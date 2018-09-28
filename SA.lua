@@ -80,4 +80,3 @@ while T > Tx do
 end
 
 print("Solusi terbaik :" .. best_state .. " --> (" .. best_x1 .. ", " .. best_x2 .. ")")
-print(best_state,">>>",(best_state / -19.2085)* 100,"%") -- debug
